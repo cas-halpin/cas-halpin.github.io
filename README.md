@@ -29,6 +29,9 @@ My academic and professional journey bridges science, technology, and strategy�
 
 ## 📁 Featured Projects
 - 🚀 Sales & Customer Dashboard (Tableau): Real-time visualization of customer metrics and sales KPIs
+- R
+- SQL
+- SAS 
 
 ## 📌 Career Goals
 I’m looking to join a forward-thinking organization where I can contribute to data-driven strategy, work with cross-functional teams, and continue to grow my technical expertise in analytics.
