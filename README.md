@@ -27,11 +27,14 @@ My academic and professional journey bridges science, technology, and strategy�
 - 🧠 Data Analyst Intern – Telus International: Improved reporting workflows and delivered insights from search data
 - 📊 Marketing Assistant – Abba Wellbeing: Used data to optimize social media and user experience strategies
 
-## 📁 Featured Projects
-- 🚀 Sales & Customer Dashboard (Tableau): Real-time visualization of customer metrics and sales KPIs
-- R
-- SQL
-- SAS 
+
+## 🔗 Related Portfolio Repositories
+
+- [📊 R Projects](https://github.com/cas-halpin/R-Projects) – Additional work in statistical programming and data analysis in R  
+- [🧮 SQL Projects](https://github.com/cas-halpin/SQL) – Database queries, schema design, and data manipulation in SQL  
+- [📉 SAS Projects](https://github.com/cas-halpin/SAS) – Predictive modeling, regression, and data mining using SAS Enterprise Miner  
+- [📈 Tableau Dashboards](https://github.com/cas-halpin/Tableau) – Data visualization and storytelling with interactive dashboards
+
 
 ## 📌 Career Goals
 I’m looking to join a forward-thinking organization where I can contribute to data-driven strategy, work with cross-functional teams, and continue to grow my technical expertise in analytics.
